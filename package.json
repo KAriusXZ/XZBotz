@@ -1,0 +1,17 @@
+{
+  "name": "xzbotz",
+  "version": "1.0.0",
+  "description": "Made By KariusXZ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "KariusXZ",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {}
+}
